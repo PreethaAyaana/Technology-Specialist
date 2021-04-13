@@ -1,6 +1,6 @@
 # Technology-Specialist
 #List of Projects to cover 
-1. B.Harish | Job portal
+1. Harish B | Job portal
 2. Preetha S | E-Commerce
 3. Vaishnavi S | inventory management system
 4. Jyothisri Prabhakar | ticket booking
